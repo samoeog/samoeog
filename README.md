@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @samoeog
+- 👀 I’m interested in basic programming
+- 🌱 I’m currently learning Civil Engineering
